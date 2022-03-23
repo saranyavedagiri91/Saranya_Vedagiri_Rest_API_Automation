@@ -1,0 +1,1 @@
+ The request was handled successfully and the response contains no body content (like a DELETE request)
